@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send?phone=5561996555065" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
- ![snake gif](https://github.com/cleverlmf/cleverlmf/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/cleverlf/cleverlf/blob/output/github-contribution-grid-snake.svg)
                                                 <!-- https://www.youtube.com/watch?v=MZT37vCQ-4Y&ab_channel=BavisettiNarayan -->
 </div>
   
